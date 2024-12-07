@@ -5,7 +5,7 @@ https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-name="Imedi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Imedi_Logo.png" tvg-id="ImediTV.ge" group-title="ქართული",იმედი
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
-#EXTINF:-1 tvg-name="Mtavari Arkhi 2" tvg-logo="https://i.imgur.com/tLtGnJW.png" tvg-id="MtavariArkhi.ge" group-title="Georgia",მთავარი არხი
+#EXTINF:-1 tvg-name="Mtavari Arkhi 2" tvg-logo="https://i.imgur.com/tLtGnJW.png" tvg-id="MtavariArkhi.ge" group-title="ქართული",მთავარი არხი
 https://glb.bozztv.com/glb/gin-mtavariarxi/index.m3u8
 
 #EXTINF:-1 tvg-name="Formula" tvg-logo="https://i.imgur.com/fsqBn8G.png" tvg-id="Formula.ge" group-title="ქართული",ფორმულა
