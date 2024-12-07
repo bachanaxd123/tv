@@ -11,8 +11,7 @@ https://glb.bozztv.com/glb/gin-mtavariarxi/index.m3u8
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 #EXTINF:-1 tvg-name="Pos TV" tvg-logo="https://i.imgur.com/UOiXFEW.png" tvg-id="PosTV.ge" group-title="ქართული",პოს tv
 https://live.postv.media/stream/index.m3u8
-#EXTINF:-1 tvg-name="Rustavi 2 hq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Rustavi_2_logo.png" tvg-id="rustavi2.ge" group-title="ქართული",რუსთავი 2
-https://hls.t.stream-dns.net/hls/rustavi2_1/_76b7f3e21d6c82cf0cba0105011ad5bb_67576df5x000f/dvr.m3u8
+
 
 #EXTINF:-1 tvg-name="Euronews Georgia Ⓖ" tvg-logo="https://i.imgur.com/VNJ4soR.png" tvg-id="EuroNewsGeorgia.ge" group-title="ქართული",ევრონიუს ჯორჯია Ⓖ
 https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
