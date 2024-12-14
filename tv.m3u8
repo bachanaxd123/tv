@@ -1,18 +1,251 @@
-#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/default.xml, https://xmltv.tvkaista.net/guides/abc.net.au.xml, https://xmltv.tvkaista.net/guides/allente.dk.xml, https://xmltv.tvkaista.net/guides/allente.fi.xml, https://xmltv.tvkaista.net/guides/allente.no.xml, https://xmltv.tvkaista.net/guides/allente.se.xml, https://xmltv.tvkaista.net/guides/andorradifusio.ad.xml, https://xmltv.tvkaista.net/guides/anteltv.com.uy.xml, https://xmltv.tvkaista.net/guides/arianaafgtv.com.xml, https://xmltv.tvkaista.net/guides/arianatelevision.com.xml, https://xmltv.tvkaista.net/guides/arirang.com.xml, https://xmltv.tvkaista.net/guides/artonline.tv.xml, https://xmltv.tvkaista.net/guides/bein.com.xml, https://xmltv.tvkaista.net/guides/beinsports.com.xml, https://xmltv.tvkaista.net/guides/berrymedia.co.kr.xml, https://xmltv.tvkaista.net/guides/cablego.com.pe.xml, https://xmltv.tvkaista.net/guides/cableplus.com.uy.xml, https://xmltv.tvkaista.net/guides/canalplus.com_bf.xml, https://xmltv.tvkaista.net/guides/canalplus.com_bi.xml, https://xmltv.tvkaista.net/guides/canalplus.com_bj.xml, https://xmltv.tvkaista.net/guides/canalplus.com_bl.xml, https://xmltv.tvkaista.net/guides/canalplus.com_cd.xml, https://xmltv.tvkaista.net/guides/canalplus.com_cf.xml, https://xmltv.tvkaista.net/guides/canalplus.com_cg.xml, https://xmltv.tvkaista.net/guides/canalplus.com_ch.xml, https://xmltv.tvkaista.net/guides/canalplus.com_ci.xml, https://xmltv.tvkaista.net/guides/canalplus.com_cm.xml, https://xmltv.tvkaista.net/guides/canalplus.com_cv.xml, https://xmltv.tvkaista.net/guides/canalplus.com_dj.xml, https://xmltv.tvkaista.net/guides/canalplus.com_fr.xml, https://xmltv.tvkaista.net/guides/canalplus.com_ga.xml, https://xmltv.tvkaista.net/guides/canalplus.com_gf.xml, https://xmltv.tvkaista.net/guides/canalplus.com_gh.xml, https://xmltv.tvkaista.net/guides/canalplus.com_gm.xml, https://xmltv.tvkaista.net/guides/canalplus.com_gn.xml, https://xmltv.tvkaista.net/guides/canalplus.com_gw.xml, https://xmltv.tvkaista.net/guides/canalplus.com_mf.xml, https://xmltv.tvkaista.net/guides/canalplus.com_ml.xml, https://xmltv.tvkaista.net/guides/canalplus.com_mq.xml, https://xmltv.tvkaista.net/guides/canalplus.com_mr.xml, https://xmltv.tvkaista.net/guides/canalplus.com_mu.xml, https://xmltv.tvkaista.net/guides/canalplus.com_nc.xml, https://xmltv.tvkaista.net/guides/canalplus.com_ne.xml, https://xmltv.tvkaista.net/guides/canalplus.com_re.xml, https://xmltv.tvkaista.net/guides/canalplus.com_rw.xml, https://xmltv.tvkaista.net/guides/canalplus.com_sl.xml, https://xmltv.tvkaista.net/guides/canalplus.com_sn.xml, https://xmltv.tvkaista.net/guides/canalplus.com_td.xml, https://xmltv.tvkaista.net/guides/canalplus.com_tg.xml, https://xmltv.tvkaista.net/guides/canalplus.com_wf.xml, https://xmltv.tvkaista.net/guides/canalplus.com_yt.xml, https://xmltv.tvkaista.net/guides/cgates.lt.xml, https://xmltv.tvkaista.net/guides/chaines-tv.orange.fr.xml, https://xmltv.tvkaista.net/guides/clickthecity.com.xml, https://xmltv.tvkaista.net/guides/content.astro.com.my.xml, https://xmltv.tvkaista.net/guides/cosmote.gr.xml, https://xmltv.tvkaista.net/guides/cubmu.com.xml, https://xmltv.tvkaista.net/guides/dens.tv.xml, https://xmltv.tvkaista.net/guides/digiturk.com.tr.xml, https://xmltv.tvkaista.net/guides/directv.com.uy.xml, https://xmltv.tvkaista.net/guides/dishtv.in.xml, https://xmltv.tvkaista.net/guides/disneystar.com.xml, https://xmltv.tvkaista.net/guides/dsmart.com.tr.xml, https://xmltv.tvkaista.net/guides/dstv.com_ao.xml, https://xmltv.tvkaista.net/guides/dstv.com_bf.xml, https://xmltv.tvkaista.net/guides/dstv.com_bi.xml, https://xmltv.tvkaista.net/guides/dstv.com_bj.xml, https://xmltv.tvkaista.net/guides/dstv.com_bw.xml, https://xmltv.tvkaista.net/guides/dstv.com_cd.xml, https://xmltv.tvkaista.net/guides/dstv.com_cf.xml, https://xmltv.tvkaista.net/guides/dstv.com_cg.xml, https://xmltv.tvkaista.net/guides/dstv.com_ci.xml, https://xmltv.tvkaista.net/guides/dstv.com_cm.xml, https://xmltv.tvkaista.net/guides/dstv.com_dj.xml, https://xmltv.tvkaista.net/guides/dstv.com_er.xml, https://xmltv.tvkaista.net/guides/dstv.com_et.xml, https://xmltv.tvkaista.net/guides/dstv.com_gh.xml, https://xmltv.tvkaista.net/guides/dstv.com_gm.xml, https://xmltv.tvkaista.net/guides/dstv.com_gn.xml, https://xmltv.tvkaista.net/guides/dstv.com_gq.xml, https://xmltv.tvkaista.net/guides/dstv.com_gw.xml, https://xmltv.tvkaista.net/guides/dstv.com_ke.xml, https://xmltv.tvkaista.net/guides/dstv.com_km.xml, https://xmltv.tvkaista.net/guides/dstv.com_lr.xml, https://xmltv.tvkaista.net/guides/dstv.com_mg.xml, https://xmltv.tvkaista.net/guides/dstv.com_ml.xml, https://xmltv.tvkaista.net/guides/dstv.com_mr.xml, https://xmltv.tvkaista.net/guides/dstv.com_mu.xml, https://xmltv.tvkaista.net/guides/dstv.com_mw.xml, https://xmltv.tvkaista.net/guides/dstv.com_mz.xml, https://xmltv.tvkaista.net/guides/dstv.com_na.xml, https://xmltv.tvkaista.net/guides/dstv.com_ne.xml, https://xmltv.tvkaista.net/guides/dstv.com_ng.xml, https://xmltv.tvkaista.net/guides/dstv.com_rw.xml, https://xmltv.tvkaista.net/guides/dstv.com_sc.xml, https://xmltv.tvkaista.net/guides/dstv.com_sd.xml, https://xmltv.tvkaista.net/guides/dstv.com_sl.xml, https://xmltv.tvkaista.net/guides/dstv.com_sn.xml, https://xmltv.tvkaista.net/guides/dstv.com_so.xml, https://xmltv.tvkaista.net/guides/dstv.com_ss.xml, https://xmltv.tvkaista.net/guides/dstv.com_st.xml, https://xmltv.tvkaista.net/guides/dstv.com_td.xml, https://xmltv.tvkaista.net/guides/dstv.com_tg.xml, https://xmltv.tvkaista.net/guides/dstv.com_tz.xml, https://xmltv.tvkaista.net/guides/dstv.com_ug.xml, https://xmltv.tvkaista.net/guides/dstv.com_za.xml, https://xmltv.tvkaista.net/guides/dstv.com_zm.xml, https://xmltv.tvkaista.net/guides/dstv.com_zw.xml, https://xmltv.tvkaista.net/guides/elcinema.com.xml, https://xmltv.tvkaista.net/guides/ena.skylifetv.co.kr.xml, https://xmltv.tvkaista.net/guides/energeek.cl.xml, https://xmltv.tvkaista.net/guides/entertainment.ie.xml, https://xmltv.tvkaista.net/guides/firstmedia.com.xml, https://xmltv.tvkaista.net/guides/flixed.io.xml, https://xmltv.tvkaista.net/guides/foxsports.com.au.xml, https://xmltv.tvkaista.net/guides/foxtel.com.au.xml, https://xmltv.tvkaista.net/guides/frikanalen.no.xml, https://xmltv.tvkaista.net/guides/gatotv.com.xml, https://xmltv.tvkaista.net/guides/getafteritmedia.com.xml, https://xmltv.tvkaista.net/guides/guida.tv.xml, https://xmltv.tvkaista.net/guides/guidatv.sky.it.xml, https://xmltv.tvkaista.net/guides/horizon.tv.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_au.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_binge.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_dstv.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_flash.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_foxtel.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_hgtvgo.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_kayo.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_metv.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_nz.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_optus.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_pbs.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_plex.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_pluto.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_roku.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_samsung.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_singtel.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_skygo.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_skysportnow.xml, https://xmltv.tvkaista.net/guides/i.mjh.nz_stirr.xml, https://xmltv.tvkaista.net/guides/i24news.tv.xml, https://xmltv.tvkaista.net/guides/iltalehti.fi.xml, https://xmltv.tvkaista.net/guides/indihometv.com.xml, https://xmltv.tvkaista.net/guides/ipko.com.xml, https://xmltv.tvkaista.net/guides/knr.gl.xml, https://xmltv.tvkaista.net/guides/kvf.fo.xml, https://xmltv.tvkaista.net/guides/m.tv.sms.cz.xml, https://xmltv.tvkaista.net/guides/m.tving.com.xml, https://xmltv.tvkaista.net/guides/magticom.ge.xml, https://xmltv.tvkaista.net/guides/mako.co.il.xml, https://xmltv.tvkaista.net/guides/maxtv.hrvatskitelekom.hr.xml, https://xmltv.tvkaista.net/guides/maxtvgo.mk.xml, https://xmltv.tvkaista.net/guides/mediagenie.co.kr.xml, https://xmltv.tvkaista.net/guides/mediaklikk.hu.xml, https://xmltv.tvkaista.net/guides/mediasetinfinity.mediaset.it.xml, https://xmltv.tvkaista.net/guides/melita.com.xml, https://xmltv.tvkaista.net/guides/meo.pt.xml, https://xmltv.tvkaista.net/guides/meuguia.tv.xml, https://xmltv.tvkaista.net/guides/mewatch.sg.xml, https://xmltv.tvkaista.net/guides/mi.tv_ar.xml, https://xmltv.tvkaista.net/guides/mi.tv_br.xml, https://xmltv.tvkaista.net/guides/mi.tv_cl.xml, https://xmltv.tvkaista.net/guides/mi.tv_co.xml, https://xmltv.tvkaista.net/guides/mi.tv_gt.xml, https://xmltv.tvkaista.net/guides/mi.tv_hn.xml, https://xmltv.tvkaista.net/guides/mi.tv_mx.xml, https://xmltv.tvkaista.net/guides/mi.tv_pe.xml, https://xmltv.tvkaista.net/guides/mi.tv_py.xml, https://xmltv.tvkaista.net/guides/mi.tv_sv.xml, https://xmltv.tvkaista.net/guides/mncvision.id.xml, https://xmltv.tvkaista.net/guides/moji.id.xml, https://xmltv.tvkaista.net/guides/mon-programme-tv.be.xml, https://xmltv.tvkaista.net/guides/movistarplus.es.xml, https://xmltv.tvkaista.net/guides/mtel.ba.xml, https://xmltv.tvkaista.net/guides/mts.rs.xml, https://xmltv.tvkaista.net/guides/mujtvprogram.cz.xml, https://xmltv.tvkaista.net/guides/musor.tv.xml, https://xmltv.tvkaista.net/guides/mysky.com.ph.xml, https://xmltv.tvkaista.net/guides/mytelly.co.uk.xml, https://xmltv.tvkaista.net/guides/mytvsuper.com.xml, https://xmltv.tvkaista.net/guides/nhkworldpremium.com.xml, https://xmltv.tvkaista.net/guides/nostv.pt.xml, https://xmltv.tvkaista.net/guides/novacyprus.com.xml, https://xmltv.tvkaista.net/guides/novasports.gr.xml, https://xmltv.tvkaista.net/guides/nowplayer.now.com_en.xml, https://xmltv.tvkaista.net/guides/nowplayer.now.com_zh.xml, https://xmltv.tvkaista.net/guides/nuevosiglo.com.uy.xml, https://xmltv.tvkaista.net/guides/nzxmltv.com_freeview.xml, https://xmltv.tvkaista.net/guides/nzxmltv.com_pluto.xml, https://xmltv.tvkaista.net/guides/nzxmltv.com_redbull.xml, https://xmltv.tvkaista.net/guides/nzxmltv.com_sky.xml, https://xmltv.tvkaista.net/guides/ontvtonight.com_au.xml, https://xmltv.tvkaista.net/guides/ontvtonight.com_ca.xml, https://xmltv.tvkaista.net/guides/ontvtonight.com_us.xml, https://xmltv.tvkaista.net/guides/osn.com.xml, https://xmltv.tvkaista.net/guides/pbsguam.org.xml, https://xmltv.tvkaista.net/guides/player.ee.co.uk.xml, https://xmltv.tvkaista.net/guides/playtv.unifi.com.my.xml, https://xmltv.tvkaista.net/guides/plex.tv.xml, https://xmltv.tvkaista.net/guides/programacion-tv.elpais.com.xml, https://xmltv.tvkaista.net/guides/programacion.tcc.com.uy.xml, https://xmltv.tvkaista.net/guides/programetv.ro.xml, https://xmltv.tvkaista.net/guides/programme-tv.net.xml, https://xmltv.tvkaista.net/guides/programme-tv.vini.pf.xml, https://xmltv.tvkaista.net/guides/programtv.onet.pl.xml, https://xmltv.tvkaista.net/guides/raiplay.it.xml, https://xmltv.tvkaista.net/guides/reportv.com.ar.xml, https://xmltv.tvkaista.net/guides/rotana.net.xml, https://xmltv.tvkaista.net/guides/rthk.hk.xml, https://xmltv.tvkaista.net/guides/rtmklik.rtm.gov.my.xml, https://xmltv.tvkaista.net/guides/rtp.pt.xml, https://xmltv.tvkaista.net/guides/ruv.is.xml, https://xmltv.tvkaista.net/guides/sat.tv_ar.xml, https://xmltv.tvkaista.net/guides/sat.tv_en.xml, https://xmltv.tvkaista.net/guides/shahid.mbc.net.xml, https://xmltv.tvkaista.net/guides/siba.com.co.xml, https://xmltv.tvkaista.net/guides/singtel.com.xml, https://xmltv.tvkaista.net/guides/sjonvarp.is.xml, https://xmltv.tvkaista.net/guides/sky.co.nz.xml, https://xmltv.tvkaista.net/guides/sky.com.xml, https://xmltv.tvkaista.net/guides/sky.de.xml, https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml, https://xmltv.tvkaista.net/guides/startimestv.com.xml, https://xmltv.tvkaista.net/guides/streamingtvguides.com.xml, https://xmltv.tvkaista.net/guides/superguidatv.it.xml, https://xmltv.tvkaista.net/guides/taiwanplus.com.xml, https://xmltv.tvkaista.net/guides/tapdmv.com.xml, https://xmltv.tvkaista.net/guides/telenet.tv.xml, https://xmltv.tvkaista.net/guides/teliatv.ee.xml, https://xmltv.tvkaista.net/guides/telkussa.fi.xml, https://xmltv.tvkaista.net/guides/telsu.fi.xml, https://xmltv.tvkaista.net/guides/tivu.tv.xml, https://xmltv.tvkaista.net/guides/toonamiaftermath.com.xml, https://xmltv.tvkaista.net/guides/turksatkablo.com.tr.xml, https://xmltv.tvkaista.net/guides/tv-programme.telecablesat.fr.xml, https://xmltv.tvkaista.net/guides/tv.blue.ch.xml, https://xmltv.tvkaista.net/guides/tv.cctv.com.xml, https://xmltv.tvkaista.net/guides/tv.dir.bg.xml, https://xmltv.tvkaista.net/guides/tv.lv.xml, https://xmltv.tvkaista.net/guides/tv.magenta.at.xml, https://xmltv.tvkaista.net/guides/tv.mail.ru.xml, https://xmltv.tvkaista.net/guides/tv.movistar.com.pe.xml, https://xmltv.tvkaista.net/guides/tv.nu.xml, https://xmltv.tvkaista.net/guides/tv.post.lu.xml, https://xmltv.tvkaista.net/guides/tv.trueid.net.xml, https://xmltv.tvkaista.net/guides/tv.yandex.ru.xml, https://xmltv.tvkaista.net/guides/tv24.co.uk.xml, https://xmltv.tvkaista.net/guides/tv24.se.xml, https://xmltv.tvkaista.net/guides/tv2go.t-2.net.xml, https://xmltv.tvkaista.net/guides/tvcesoir.fr.xml, https://xmltv.tvkaista.net/guides/tvcubana.icrt.cu.xml, https://xmltv.tvkaista.net/guides/tvgids.nl.xml, https://xmltv.tvkaista.net/guides/tvguide.com.xml, https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml, https://xmltv.tvkaista.net/guides/tvhebdo.com.xml, https://xmltv.tvkaista.net/guides/tvheute.at.xml, https://xmltv.tvkaista.net/guides/tvim.tv.xml, https://xmltv.tvkaista.net/guides/tvireland.ie.xml, https://xmltv.tvkaista.net/guides/tvmi.mt.xml, https://xmltv.tvkaista.net/guides/tvmusor.hu.xml, https://xmltv.tvkaista.net/guides/tvpassport.com.xml, https://xmltv.tvkaista.net/guides/tvplus.com.tr.xml, https://xmltv.tvkaista.net/guides/tvprofil.com.xml, https://xmltv.tvkaista.net/guides/tvtv.us.xml, https://xmltv.tvkaista.net/guides/v3.myafn.dodmedia.osd.mil.xml, https://xmltv.tvkaista.net/guides/vidio.com.xml, https://xmltv.tvkaista.net/guides/virginmediatelevision.ie.xml, https://xmltv.tvkaista.net/guides/virgintvgo.virginmedia.com.xml, https://xmltv.tvkaista.net/guides/visionplus.id.xml, https://xmltv.tvkaista.net/guides/vtm.be.xml, https://xmltv.tvkaista.net/guides/walesi.com.fj.xml, https://xmltv.tvkaista.net/guides/watch.sportsnet.ca.xml, https://xmltv.tvkaista.net/guides/watchyour.tv.xml, https://xmltv.tvkaista.net/guides/wavve.com.xml, https://xmltv.tvkaista.net/guides/web.magentatv.de.xml, https://xmltv.tvkaista.net/guides/webtv.delta.nl.xml, https://xmltv.tvkaista.net/guides/worldfishingnetwork.com.xml, https://xmltv.tvkaista.net/guides/www3.nhk.or.jp.xml, https://xmltv.tvkaista.net/guides/xumo.tv.xml, https://xmltv.tvkaista.net/guides/zap.co.ao.xml, https://xmltv.tvkaista.net/guides/ziggogo.tv.xml, https://xmltv.tvkaista.net/guides/znbc.co.zm.xml, https://xmltv.tvkaista.net/guides/zuragt.mn.xml"
-
-#EXTINF:-1 tvg-name="First Channel (1TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pirveli_Arkhi_Logo_2022.svg/512px-Pirveli_Arkhi_Logo_2022.svg.png" tvg-id="1TV.ge" group-title="ქართული",პირველი არხი (1TV)
-https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-#EXTINF:-1 tvg-name="First Channel /Education/ (2TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/ka/c/c9/2_Tv_Logo.jpg" tvg-id="2TV.ge" group-title="ქართული",პირველი არხი /Education/ (2TV)
-https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:-1 tvg-name="Imedi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Imedi_Logo.png" tvg-id="ImediTV.ge" group-title="ქართული",იმედი
-https://tv.cdn.xsg.ge/imedihd/index.m3u8
-#EXTINF:-1 tvg-name="Mtavari Arkhi 2" tvg-logo="https://i.imgur.com/tLtGnJW.png" tvg-id="MtavariArkhi.ge" group-title="ქართული",მთავარი არხი
-https://glb.bozztv.com/glb/gin-mtavariarxi/index.m3u8
-#EXTINF:-1 tvg-name="Formula" tvg-logo="https://i.imgur.com/fsqBn8G.png" tvg-id="Formula.ge" group-title="ქართული",ფორმულა
-https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-name="Pos TV" tvg-logo="https://i.imgur.com/UOiXFEW.png" tvg-id="PosTV.ge" group-title="ქართული",პოს tv
-https://live.postv.media/stream/index.m3u8
-
-
-#EXTINF:-1 tvg-name="Euronews Georgia Ⓖ" tvg-logo="https://i.imgur.com/VNJ4soR.png" tvg-id="EuroNewsGeorgia.ge" group-title="ქართული",ევრონიუს ჯორჯია Ⓖ
-https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 ,Brazzers - VOD 231
+http://static.brazzers.com/scenes/3551/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 232
+http://static.brazzers.com/scenes /3552/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 233
+http://static.brazzers.com/scenes/3553/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 234
+http://static.brazzers .com/scenes/3554/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 235
+http://static.brazzers.com/scenes/3555/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 236
+http:/ /static.brazzers.com/scenes/3556/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 237
+http://static.brazzers.com/scenes/3557/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 238
+http://static.brazzers.com/scenes/3558/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 239
+http://static.brazzers.com/scenes/3559/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 240
+http://static.brazzers.com/scenes/3560 /180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 241
+http://static.brazzers.com/scenes/3561/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 242
+http://static.brazzers.com /scenes/3562/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 243
+http://static.brazzers.com/scenes/3563/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 244
+http://static .brazzers.com/scenes/3564/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 245
+http://static.brazzers.com/scenes/3565/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 246
+http http://static.brazzers.com/scenes/3566/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 247
+http://static.brazzers.com/scenes/3567/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 248
+http://static.brazzers.com/scenes/3568 /180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 249
+http://static.brazzers.com/scenes/3569/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 250
+http://static.brazzers.com /scenes/3570/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 251
+http://static.brazzers.com/scenes/3571/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 252
+http://static .brazzers.com/scenes/3572/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 253
+http://static.brazzers.com/scenes/3573/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 254
+http static.brazzers.com/scenes/3575/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 255
+http://static.brazzers.com/scenes/3576/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 256
+http://static.brazzers.com/scenes/3577 /180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 257
+http://static.brazzers.com/scenes/3586/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 258
+http://static.brazzers.com /scenes/3588/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 259
+http://static.brazzers.com/scenes/3589/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 260
+http://static .brazzers.com/scenes/3590/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 261
+http://static.brazzers.com/scenes/3591/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 262
+http http://static.brazzers.com/scenes/3592/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 263
+http://static.brazzers.com/scenes/3593/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 264
+http://static.brazzers.com/scenes/3594 /180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 265
+http://static.brazzers.com/scenes/3595/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 266
+http://static.brazzers.com /scenes/3596/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 267
+http://static.brazzers.com/scenes/3597/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 268
+http://static .brazzers.com/scenes/3598/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 269
+http://static.brazzers.com/scenes/3599/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 270
+http http://static.brazzers.com/scenes/3600/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 271
+http://static.brazzers.com/scenes/3601/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 272
+http://static.brazzers.com/scenes/3602 /180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 273
+http://static.brazzers.com/scenes/3603/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 274
+http://static.brazzers.com /scenes/3604/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 275
+http://static.brazzers.com/scenes/3605/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 276
+http://static .brazzers.com/scenes/3606/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 277
+http://static.brazzers.com/scenes/3607/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 278
+http http://static.brazzers.com/scenes/3608/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 279
+http://static.brazzers.com/scenes/3609/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 280
+http://static.brazzers.com/scenes/3610 /180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 281
+http://static.brazzers.com/scenes/3611/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 282
+http://static.brazzers.com /scenes/3612/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 283
+http://static.brazzers.com/scenes/3613/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 284
+http://static .brazzers.com/scenes/3614/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 285
+http://static.brazzers.com/scenes/3615/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 286
+http http://static.brazzers.com/scenes/3616/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 287
+http://static.brazzers.com/scenes/3617/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 288
+http://static.brazzers.com/scenes/3619 /180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 289
+http://static.brazzers.com/scenes/3620/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 290
+http://static.brazzers.com /scenes/3621/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 291
+http://static.brazzers.com/scenes/3622/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 292
+http://static .brazzers.com/scenes/3623/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 293
+http://static.brazzers.com/scenes/3625/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 294
+http static.brazzers.com/scenes/3626/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 295
+http://static.brazzers.com/scenes/3627/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 296
+http://static.brazzers.com/scenes/3628 /180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 297
+http://static.brazzers.com/scenes/3629/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 298
+http://static.brazzers.com /scenes/3630/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 299
+http://static.brazzers.com/scenes/3631/180sec.flv
+#EXTINF:-1 ,Brazzers - VOD 300
+http://static .brazzers.com/scenes/3632/180sec.flv
+#EXTINF:-1 ,BRAZZERS 301
+http://static.brazzers.com/scenes/3633/180sec.flv
+#EXTINF:-1 ,BRAZZERS 302
+http://static .brazzers.com/scenes/3634/180sec.flv
+#EXTINF:-1 ,BRAZZERS 303
+http://static.brazzers.com/scenes/3635/180sec.flv
+#EXTINF:-1 ,BRAZZERS 304
+http://static.brazzers.com/scenes/3636/180sec.flv
+#EXTINF:-1 ,BRAZZERS 305
+http://static.brazzers.com/scenes/3694/180sec.flv
+#EXTINF:-1 ,BRAZZERS 306
+http://static.brazzers.com/scenes/3693/180sec.flv
+#EXTINF:-1 ,BRAZZERS 307
+http://static.brazzers.com/scenes/3692/180sec.flv
+#EXTINF:-1 ,BRAZZERS 308
+http://static.brazzers.com/scenes/3645/180sec.flv
+#EXTINF:-1 ,BRAZZERS 309
+http://static.brazzers.com/scenes/3644/180sec.flv
+#EXTINF:-1 ,BRAZZERS 310
+http://static.brazzers.com/scenes/3643/180sec.flv
+#EXTINF:-1 BRAZZERS 311
+http://static.brazzers.com/scenes/3642/180sec.flv
+#EXTINF:-1 ,BRAZZERS 312
+http://static.brazzers.com/scenes/3691/180sec.flv
+#EXTINF:-1 ,BRAZZERS 313
+http://static.brazzers.com/scenes/3690/180sec.flv
+#EXTINF:-1 ,BRAZZERS 314
+http://static.brazzers.com/scenes/3688/180sec.flv
+#EXTINF:-1 ,BRAZZERS 315
+http://static.brazzers.com/scenes/3686/180sec.flv
+#EXTINF:-1 ,BRAZZERS 316
+http://static.brazzers.com/scenes/3687/180sec.flv
+#EXTINF:-1 ,BRAZZERS 317
+http://static.brazzers.com/scenes/3641/180sec.flv
+#EXTINF:-1 ,BRAZZERS 318
+http://static.brazzers.com/scenes/3685/180sec.flv
+#EXTINF:-1 ,BRAZZERS 319
+http://static.brazzers.com/scenes/3684/180sec.flv
+#EXTINF:-1 ,BRAZZERS 320
+http://static.brazzers.com/scenes/3683/180sec.flv
+#EXTINF:-1 ,BRAZZERS 321
+http://static.brazzers.com/scenes/3682/180sec.flv
+#EXTINF:-1 ,BRAZZERS 322
+http://static.brazzers.com/scenes/3681/180sec.flv
+#EXTINF:-1 ,BRAZZERS 323
+http://static.brazzers.com/scenes/3680/180sec.flv
+#EXTINF:-1 ,BRAZZERS 324
+http://static.brazzers.com/scenes/3679/180sec.flv
+#EXTINF:-1 ,BRAZZERS 325
+http://static.brazzers.com/scenes/3678/180sec.flv
+#EXTINF:-1 ,BRAZZERS 326
+http://static.brazzers.com/scenes/3677/180sec.flv
+#EXTINF:-1 ,BRAZZERS 327
+http://static.brazzers.com/scenes/3675/180sec.flv
+#EXTINF:-1 ,BRAZZERS 328
+http://static.brazzers.com/scenes/3676/180sec.flv
+#EXTINF:-1 ,BRAZZERS 329
+http://static.brazzers.com/scenes/3674/180sec.flv
+#EXTINF:-1 ,BRAZZERS 330
+http://static.brazzers.com/scenes/3673/180sec.flv
+#EXTINF:-1 ,BRAZZERS 331
+http://static.brazzers.com/scenes/3672/180sec.flv
+#EXTINF:-1 ,BRAZZERS 332
+http://static.brazzers.com/scenes/3671/180sec.flv
+#EXTINF:-1 ,BRAZZERS 333
+http://static.brazzers.com/scenes/3670/180sec.flv
+#EXTINF:-1 ,BRAZZERS 334
+http://static.brazzers.com/scenes/3669/180sec.flv
+#EXTINF:-1 ,BRAZZERS 335
+http://static.brazzers.com/scenes/3666/180sec.flv
+#EXTINF:-1 ,BRAZZERS 335
+http://static.brazzers.com/scenes/3668/180sec.flv
+#EXTINF:-1 ,BRAZZERS 336
+http://static.brazzers.com/scenes/3639/180sec.flv
+#EXTINF:-1 ,BRAZZERS 337
+http://static.brazzers.com/scenes/3665/180sec.flv
+#EXTINF:-1 ,BRAZZERS 338
+http://static.brazzers.com/scenes/3662/180sec.flv
+#EXTINF:-1 ,BRAZZERS 339
+http://static.brazzers.com/scenes/3663/180sec.flv
+#EXTINF:-1 ,BRAZZERS 340
+http://static.brazzers.com/scenes/3661/180sec.flv
+#EXTINF:-1 ,BRAZZERS 341
+http://static.brazzers.com/scenes/3660/180sec.flv
+#EXTINF:-1 ,BRAZZERS 342
+http://static.brazzers.com/scenes/3659/180sec.flv
+#EXTINF:-1 ,BRAZZERS 343
+http://static.brazzers.com/scenes/3658/180sec.flv
+#EXTINF:-1 ,BRAZZERS 344
+http://static.brazzers.com/scenes/3657/180sec.flv
+#EXTINF:-1 ,BRAZZERS 345
+http://static.brazzers.com/scenes/3656/180sec.flv
+#EXTINF:-1 ,BRAZZERS 346
+http://static.brazzers.com/scenes/3638/180sec.flv
+#EXTINF:-1 ,BRAZZERS 347
+http://static.brazzers.com/scenes/3654/180sec.flv
+#EXTINF:-1 ,BRAZZERS 348
+http://static.brazzers.com/scenes/3653/180sec.flv
+#EXTINF:-1 ,BRAZZERS 349
+http://static.brazzers.com/scenes/3652/180sec.flv
+#EXTINF:-1 ,BRAZZERS 350
+http://static.brazzers.com/scenes/3651/180sec.flv
+#EXTINF:-1 ,BRAZZERS 351
+http://static.brazzers.com/scenes/3650/180sec.flv
+#EXTINF:-1 ,BRAZZERS 352
+http://static.brazzers.com/scenes/3649/180sec.flv
+#EXTINF:-1 ,BRAZZERS 353
+http://static.brazzers.com/scenes/3648/180sec.flv
+#EXTINF:-1 ,BRAZZERS 354
+http://static.brazzers.com/scenes/3647/180sec.flv
